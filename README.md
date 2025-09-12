@@ -42,7 +42,7 @@
 ## 📈 My Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmkm&theme=default" alt="ayushmkm's contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=ayushmkm&theme=default" alt="ayushmkm's contribution streak"/>
 </p>
 
 <!-- Feel free to add more sections like "Pinned Projects" or "Certifications" if needed! -->
