@@ -1,6 +1,6 @@
-# Hi there, I'm Ayush Raj! 👋
-
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ayush%20Raj&fontSize=40&fontAlignY=35&desc=Tech%20Enthusiast%20|%20BTech%20CSE%20@%20SRM%20Chennai&descAlign=50&descSize=20)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A7EED&center=true&width=435&lines=Welcome+to+my+profile!;Ayush+Raj+here!" alt="Typing SVG"/>
+</p>
 
 ## 👨‍💻 About Me
 
