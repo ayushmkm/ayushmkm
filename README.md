@@ -40,11 +40,9 @@
 -->
 
 ## 📈 My Contribution Streak
-
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ayushmkm)
+  <img src="https://streak-stats.demolab.com?user=ayushmkm&theme=default" alt="ayushmkm's contribution streak"/>
 </p>
-
 <!-- Feel free to add more sections like "Pinned Projects" or "Certifications" if needed! -->
 
 <!--
