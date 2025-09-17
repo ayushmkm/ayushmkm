@@ -43,7 +43,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayushmkm&theme=default" alt="ayushmkm's contribution streak"/>
 </p>
-<!-- Feel free to add more sections like "Pinned Projects" or "Certifications" if needed! -->
 
 <!--
 **ayushmkm/ayushmkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
