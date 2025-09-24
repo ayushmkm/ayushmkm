@@ -34,7 +34,7 @@
 ---
 
 <!-- GitHub Stats (optional, uncomment if you want to display your stats)
-<p align="center">
+<p align="center".>
   <img src="https://github-readme-stats.vercel.app/api?username=ayushmkm&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
 </p>
 -->
