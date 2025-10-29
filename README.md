@@ -29,6 +29,10 @@
   <a href="https://discordapp.com/users/719756946852282389" target="_blank">
     <img src="https://img.shields.io/badge/Discord-ayushraj-blueviolet?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
   </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/ayushraj22201" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-ayushraj22201-2EC866?logo=hackerrank&logoColor=white&style=flat-square" alt="HackerRank" />
+  </a>
 </p>
 
 ---
