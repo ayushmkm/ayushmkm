@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0A7EED&center=true&width=435&lines=Welcome+to+my+profile!;Ayush+Raj+here!" alt="Typing SVG"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmkm&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmkm" /> </p>
+
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **BTech in Computer Science** with a specialization in Software Engineering at **SRM Chennai**
